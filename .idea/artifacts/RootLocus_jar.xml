@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RootLocus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RootLocus_jar</output-path>
+    <root id="archive" name="RootLocus.jar">
+      <element id="module-output" name="RootLocus" />
+    </root>
+  </artifact>
+</component>
